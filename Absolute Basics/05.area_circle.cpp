@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int r,Area;
-    cout<<"enter radius ;-";
+    cout<<"enter radius ; ";
     cin>>r;
     Area=3.14*r*r;
     cout<<"Area of circle:-  "<<Area;
